@@ -77002,7 +77002,7 @@
       var _null = null,
         t1 = C.Map_JNHRl.$index(0, 400),
         t2 = L.Text$("Josias Soares", _null),
-        t3 = H.setRuntimeTypeInfo([this.buildKey$2$title$url("Quizzler", "https://josiassoares.github.io/quizzler/#/"), this.buildKey$2$title$url("Destini", "https://josiassoares.github.io/destini/#/")], type$.JSArray_legacy_Widget),
+        t3 = H.setRuntimeTypeInfo([this.buildKey$2$title$url("Quizzler", "https://josiassoares.github.io/quizzler/#/"), this.buildKey$2$title$url("Destini", "https://josiassoares.github.io/destini/#/"), this.buildKey$2$title$url("IMC Calculator", "https://josiassoares.github.io/imc_calculator/#/")], type$.JSArray_legacy_Widget),
         t4 = P.LinkedHashMap_LinkedHashMap$_literal([null, 0], type$.legacy_Key, type$.legacy_int),
         t5 = t3.length;
       return new M.Scaffold(new E.AppBar(t2, C.Color_4278190080, true, new P.Size(1 / 0, 56), _null), new B.ListView(new G.SliverChildListDelegate(true, true, true, t3, t4), new V.EdgeInsets(35, 10, 35, 10), C.Axis_1, false, _null, true, C.AlwaysScrollableScrollPhysics_null, false, _null, t5, C.DragStartBehavior_1, C.ScrollViewKeyboardDismissBehavior_0, _null), t1, _null);
